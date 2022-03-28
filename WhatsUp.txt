@@ -9,3 +9,5 @@ Author: Kavitha
 3. Last seen code
 
 4. Attachments (Image, Audio, Video) code 
+
+5. Hiding the last seen.
